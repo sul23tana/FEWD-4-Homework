@@ -42,7 +42,7 @@ You only need to do this part once, not every time you're submitting homework!
 You should put each week's homework in a new folder within the appropriate directory of your homework repo. So, for week one, you might do something like this:
 
 1. Open Terminal/iTerm2;
-2. Go to your local homework repo (e.g., `cd Projects/general-assembly/wdi-oryx-homework`, or wherever your local repo is);
+2. Go to your local homework repo (e.g., `cd Projects/general-assembly/FEWD-4-homework`, or wherever your local repo is);
 3. From here, go to the folder matching your name within that repo, and the appropriate week (e.g., `Groucho_Marx/week_01`);
 4. Create new folders for each of the day's homework tasks: (e.g. `mkdir calculator` and `mkdir strings`);
 5. Create the files necessary to complete the homework in their respective directories;
@@ -60,7 +60,7 @@ You need to do this every time you're submitting homework.
 - **Push the changes in your local repository to your forked repository**
     + `git push origin master`
 - **Once you're finished, submit a pull request for me to accept your homework**
-    + Navigate to your forked version of this repository on Github (e.g. [https://github.com/{{YOUR_USERNAME_HERE}}/wdi-oryx-homework](https://github.com/{{YOUR_USERNAME_HERE}}/wdi-oryx-homework)).
+    + Navigate to your forked version of this repository on Github (e.g. [https://github.com/{{YOUR_USERNAME_HERE}}/FEWD-4-homework](https://github.com/{{YOUR_USERNAME_HERE}}/FEWD-4-homework)).
     + Hit the **Pull request** button.
     + Make sure the destination for the pull request is set to my repository, not your own or anyone else's.
     - In the pull request comment, tell me the following:
