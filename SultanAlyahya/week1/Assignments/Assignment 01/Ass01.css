@@ -1,0 +1,19 @@
+body { background-color: #FFE;
+       border: thin solid;
+       font-size: 16px;
+       padding: 20px;
+       width: 1100px;}
+
+img {border: 2px solid;
+     padding: 2px;}
+
+a {color: #900;}
+
+.bold{font-size: 18px;
+      font-weight: bold;}
+
+.Info {color: #887;
+       font-weight: bold;}
+
+#sorry {font-style: italic;
+        font-weight: bold;}

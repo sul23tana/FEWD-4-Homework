@@ -1,0 +1,41 @@
+body {
+  background: #FFE;
+}
+.hp-issue-index {
+  text-decoration: underline;
+}
+
+ul.hp-issue-article-list {
+  font-size: 20px;
+  color: red;
+}
+
+.hp-news-category {
+  color:green;
+  font-weight:bold
+}
+
+.footer-block-containerfooter-block-container-1 {
+  background-color: #d9e6ff;
+}
+
+.footer-block-containerfooter-block-container-2 {
+    background-color: #ccd9f9;
+  }
+
+  .footer-block-containerfooter-block-container-3 {
+      background-color: #a7b4d2;
+    }
+
+h2 {
+  color: blue
+}
+
+h4 {
+  color: darkblue;
+}
+.imgs {
+  border: 2px solid blue;
+  padding: 2px;}
+
+}
