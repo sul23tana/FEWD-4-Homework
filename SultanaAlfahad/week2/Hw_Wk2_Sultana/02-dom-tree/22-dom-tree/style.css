@@ -1,0 +1,58 @@
+body{
+
+  margin: 0px;
+}
+.header{
+  background: lightgray;
+  margin: 0px;
+
+}
+h2,h3{
+  display: flex;
+  justify-content:center;
+}
+
+.img {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+}
+
+.nav{
+float: right;
+padding-top: 40px;
+padding-right: 40px;
+}
+
+section{
+  background: #FFE;
+  padding: 20px 30px 20px 30px;
+
+}
+
+.item1 {
+  position: absolute;
+  top: 65%;
+  left: 13%;
+  transform: translate(-20%, -20%);
+}
+
+.item2 {
+  position: absolute;
+  top: 65%;
+  left: 48%;
+  transform: translate(-20%, -20%);
+
+}
+
+.item3 {
+  position: absolute;
+  top: 65%;
+  left: 80%;
+  transform: translate(-20%, -20%);
+}
+
+.h4{
+  display: flex;
+  justify-content: flex-end;
+}

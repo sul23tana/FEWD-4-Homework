@@ -1,0 +1,66 @@
+
+
+h1 {
+  color: salmon;
+}
+
+div > h1{
+  color: black;
+}
+.h1b, .h2b, h5{
+display: flex;
+justify-content: center;
+}
+h4{
+  color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.imges{
+  display:flex;
+  flex-direction: row;
+  justify-content:space-around;
+}
+
+.san1 {
+  position: absolute;
+  top: 31%;
+  left: 14%;
+  transform: translate(-20%, -20%);
+}
+
+.new {
+  position: absolute;
+  top: 31%;
+  left: 48%;
+  transform: translate(-20%, -20%);
+}
+.lon {
+  position: absolute;
+  top: 31%;
+  left: 81%;
+  transform: translate(-20%, -20%);
+}
+.san2 {
+  position: absolute;
+  top: 81%;
+  left: 14%;
+  transform: translate(-20%, -20%);
+}
+
+.napa {
+  position: absolute;
+  top: 81%;
+  left: 49%;
+  transform: translate(-20%, -20%);
+}
+.son {
+  position: absolute;
+  top: 81%;
+  left: 81%;
+  transform: translate(-20%, -20%);
+}
+h3{
+  color: darksalmon;
+}

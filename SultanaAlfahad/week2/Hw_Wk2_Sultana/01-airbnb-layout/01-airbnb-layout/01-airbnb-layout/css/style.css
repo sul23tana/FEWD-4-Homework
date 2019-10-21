@@ -1,0 +1,63 @@
+.container{
+  text-align: center;
+  align-items: center;
+
+}
+.header{
+  display: flex;
+  justify-content: center;
+}
+
+.imges {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+h2 {
+  color: white;
+}
+
+.write1 {
+  position: absolute;
+  top: 33%;
+  left: 30%;
+  transform: translate(-20%, -20%);
+}
+.write2 {
+  position: absolute;
+  top: 33%;
+  left: 48%;
+  transform: translate(-20%, -20%);
+}
+.write3 {
+  position: absolute;
+  top: 33%;
+  left: 65%;
+  transform: translate(-20%, -20%);
+}
+
+.imges2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.write4 {
+  position: absolute;
+  top: 88%;
+  left: 32%;
+  transform: translate(-20%, -20%);
+}
+.write5 {
+  position: absolute;
+  top: 88%;
+  left: 48%;
+  transform: translate(-20%, -20%);
+}
+.write6 {
+  position: absolute;
+  top: 88%;
+  left: 65%;
+  transform: translate(-20%, -20%);
+}

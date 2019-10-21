@@ -1,0 +1,30 @@
+body {
+  background: black;
+  padding-top: 55px ;
+  padding-right: 290px;
+  padding-bottom: 55px;
+  padding-left: 300px;
+
+  margin: 0px;
+
+}
+
+.aa {
+  color: white;
+
+}
+
+.hp-news-category{
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.hp-news-title{
+  text-transform: capitalize;
+  font-size: 50px;
+  margin: 0px;
+
+
+}
+.hp-news-author, .hp-news-date{
+text-transform: uppercase;
+}
